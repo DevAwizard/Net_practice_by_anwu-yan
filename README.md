@@ -1,5 +1,12 @@
 ![cover-net_practice](https://github.com/user-attachments/assets/31371701-c4e7-4c8d-818e-279492fb76c1)
 
+<div align="center">
+<h1>Net Practice Documentation</h1>
+<img src="https://img.shields.io/badge/42-%23000000.svg?&style=for-the-badge&logo=42&logoColor=white" /> 
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
 ### Table of Contents
 
 1. [Introduction](#introduction)
